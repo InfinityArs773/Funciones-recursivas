@@ -10,7 +10,7 @@ En este pequeñisimo programita, se implementan algoritmos recursivos en Java pa
 
 - `fibonacci()`: sumando números y llamadas recursivas.
 - `mcd()`: buscando puntos en común entre dos números.
-- `count()`: contando elementos en automático porque hacerlo a mano da flojera.
+- `count()`: contando elementos en automático porque hacerlo a mano da mucha flojera.
 - `reverse()`: invirtiendo arreglos, porque a veces hay que darle la vuelta a las cosas.
 
 Hecho en Java, con recursividad, café y con la esperanza de que la vida algún día venga con un caso base. 😸🙏☕
